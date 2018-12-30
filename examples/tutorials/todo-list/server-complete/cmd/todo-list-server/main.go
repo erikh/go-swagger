@@ -7,8 +7,8 @@ import (
 	"os"
 
 	loads "github.com/go-openapi/loads"
-	"github.com/go-swagger/go-swagger/examples/tutorials/todo-list/server-complete/restapi"
-	"github.com/go-swagger/go-swagger/examples/tutorials/todo-list/server-complete/restapi/operations"
+	"github.com/erikh/go-swagger/examples/tutorials/todo-list/server-complete/restapi"
+	"github.com/erikh/go-swagger/examples/tutorials/todo-list/server-complete/restapi/operations"
 	flags "github.com/jessevdk/go-flags"
 )
 

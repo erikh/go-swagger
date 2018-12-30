@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/go-swagger/go-swagger/examples/stream-server/models"
+	"github.com/erikh/go-swagger/examples/stream-server/models"
 )
 
 // MyCounter is the concrete implementation
